@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.milanthapa1996.com.np/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
+  <a href="https://www.milanthapa1996.com.np/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/59304271/184546373-04c1f663-4954-4391-ae00-40f3e7161fb9.png" alt="my banner"></a>
 </p>
 
 <h3 align="center">
@@ -7,7 +7,7 @@ Hi there, I'm <a href="https://www.milanthapa1996.com.np/" target="_blank" rel="
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, Traveller 🚀, and Nature lover ⛰️!
+I'm a Full-Stack Web Developer 💻, ML Enthusiast 🤖, Data Analyst 📊, and Nature lover 🍄🌿!
 </h2> 
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
@@ -22,26 +22,26 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 🔭 I'm currently working on
 
-- My old projects
-- Restaurant Recommendation App (React-Native)
-- Mobile + Desktop Spotify Clone (Working on it soon...)
-- My next blog
-- My CSS skill
+- Reviving my old projects
+- Exploring advanced mern stack and microservices
+- Advanced To-Do project
+- Exploring ML and Data Science technologies
+- Enhancing my coding skills.
 
 ## 🌱 I'm currently learning
 
-- 📱 React Native
-- Firebase
-- React Context API
-- Styled Components  
+- Redux toolkit && RTK Query
+- Text mining, Internet of Things (MQTT), Neural Networks ...
+- Content Personalization with Machine Learning
+- Alternatives to cloud computing – edge & fog computing
 
 ## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
-![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=ffdd54)
+![](https://img.shields.io/badge/Code-FastAPI-informational?style=flat&logo=fastapi&color=00C7B7)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
@@ -71,8 +71,8 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
+[![Milan's github stats](https://github-readme-stats.vercel.app/api?username=milanThapa1996)](https://github.com/milanThapa1996)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milanThapa1996&layout=compact)](https://github.com/milanThapa1996)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=milanThapa1996.milanThapa1996)](https://www.milanthapa1996.com.np/)
