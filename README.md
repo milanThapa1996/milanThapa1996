@@ -1,7 +1,3 @@
----
-title: Milan Thapa - Software Engineer
----
-
 # Milan Thapa
 
 **Software Engineer | Full-Stack Developer**
